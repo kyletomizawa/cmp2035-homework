@@ -12,8 +12,59 @@ a {
 
 p {
     background-color: green ;
+    font-size: 25px ;
+    color: yellow ;
 }
 
+b {
+    font-family: PT Sans ;
+    font-size: 10px ;
+}
 
-        
+li {
+    background-color: orange ;
+}
+
+ol {
+    color: crimson ;
+}
+
+strong {
+    background-color: darkblue;
+    border-color: darkblue ;
+    border-width: 1px ;
+    color: peachpuff ;
+}
+
+table {
+    border-color: purple ;
+    border-width: 3px ;
+    background-color: aquamarine ;
+    font-family: Futura ;
+    font-size: 16px ;
+}
+
+th {
+    font-size: 30px ;
+    color: olive ;
+    font-family: Times New Roman ;
+}
+
+em {
+    color: white ;
+}
+
+i {
+    color: white ;
+}
+
+h1 {
+    font-size: 1px ;
+    font-family: Papyrus
+}
+
+h2 {
+    font-size: 40px ;
+}
+
 </style>
