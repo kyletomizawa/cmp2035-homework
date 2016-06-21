@@ -5,7 +5,7 @@ body {
 a {
     font-size: 34px ;
     color: dimgray ;
-    font-family: Copperplate ;
+    font-family: "Copperplate" ;
 }
 
 p {
@@ -45,7 +45,7 @@ table {
 th {
     font-size: 30px ;
     color: olive ;
-    font-family: Times New Roman ;
+    font-family: "Times New Roman" ;
 }
 
 em {
@@ -58,7 +58,7 @@ i {
 
 h1 {
     font-size: 1px ;
-    font-family: Papyrus
+    font-family: "Papyrus" ;
 }
 
 h2 {
